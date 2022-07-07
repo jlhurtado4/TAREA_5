@@ -119,7 +119,21 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 
 **EJERCICIOS CAPITULO 9**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-1-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-1-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-1-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-2-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-2-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/9-3-10.jpg)
 
 **EJERCICIOS CAPITULO 10**
 
