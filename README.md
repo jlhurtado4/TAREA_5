@@ -146,7 +146,7 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=RakB-hLxygY
 
 5. CONCLUSIONES
 
