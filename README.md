@@ -137,7 +137,12 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 
 **EJERCICIOS CAPITULO 10**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/10-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/10-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/10-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/10-4-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/10-4-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/10-5.jpg)
 
 4. VIDEO
 
@@ -172,4 +177,4 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_5/blob/main/IMAGENES%20CAP%209%20Y%2010/RubicasTarea.png)
